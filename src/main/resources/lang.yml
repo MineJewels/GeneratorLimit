@@ -1,0 +1,43 @@
+messages:
+  "too-many-generators":
+    message:
+      enabled: true
+      value:
+        - "&8[&c&lAlert&8] &cYou've placed &4&ntoo&c &4&nmany&c generators! Please break some and try again!"
+  "not-your-generator":
+    message:
+      enabled: true
+      value:
+        - "&8[&c&lAlert&8] &cYou do not &4&nown&c this generator!"
+  "no-permission":
+    message:
+      enabled: true
+      value:
+        - "&8[&c&lAlert&8] &cYou do not have &4permission &cto execute this!"
+  "invalid-number":
+    message:
+      enabled: true
+      value:
+        - "&8[&c&lAlert&8] &cYou do not have &4permission &cto execute this!"
+  "slots-added":
+    message:
+      enabled: true
+      value:
+        - "&8[&b&lAlert&8] &bYou have been given &3&n%amount%&b extra generator slots! Your now have &3&n%new%&b slots!"
+  "help":
+    message:
+      enabled: true
+      value:
+        - "#ae5bb9M#ab58bdi#a856c1n#a453c6e#a150caJ#9e4ecee#9b4bd2w#9748d7e#9446dbl#9143dfs &8| #ae5bb9H#a453c6e#9b4bd2l#9143dfp"
+        - "&7"
+        - "#AE5BB9✧ #9143DF/genlimit add &f{player} {amount}"
+    sound:
+      enabled: true
+      value: "FIZZ"
+      volume: 1
+      pitch: 1
+  "player-doesnt-exist":
+    message:
+      enabled: true
+      value:
+        - "&8[&c&lAlert&8] &cThis player does not exist! If you think this is a error, send this message to a staff."

@@ -1,0 +1,7 @@
+name: JewelsGenLimits
+version: ${project.version}
+main: org.minejewels.jewelsgenlimits.JewelsGenLimits
+api-version: 1.19
+depend: [ AbyssLib, JewelsGens, PlaceholderAPI ]
+authors: [ Consciences ]
+description: Addon to JewelsGens to limit the amount of generators that can be placed by a player.
